@@ -20,7 +20,9 @@ conda update conda
 pip install --upgrade pip
 
 ##tensorflow
-conda install tensorflow-gpu==1.13.0
+#conda install tensorflow-gpu==1.13.0
+conda install tensorflow-gpu==1.14.0
+
 # conda install -c anaconda scikit-image==0.14.2
 
 #pytorch
